@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    font-family:"Trebuchet MS",sans-serif;
+    font-size: 14px;
+}
+p{
+    text-align: justify;
+    text-align-last: center;
+}
+h1 {
+    color:#3749bb;
+    background-color: white;
+    font-size: 22px;
+}
+b{
+    color: black;
+    font-size: 18px;
+}
+button{
+    color: white;
+    background-color:#e5330b;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h2{
+    color: black;
+    background-color: white;
+}
+h3{
+    color: blue;
+    background-color: white;
+    font-size: 20px;
+}
+a{
+    color: rgb(235, 60, 7);
+}
+input{
+    text-align: right;
+}
+h4{
+    display: inline-block;
+    line-height: 24px;
+    padding-bottom: 2px;
+    color: #e5330b;
+    border-bottom: 1px solid #e5330b;
+    cursor: pointer;
+}
+img{
+    text-align: center;
+}
+.test{
+    background-color: rgb(236, 233, 233);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.test{
+    background-color: rgb(236, 233, 233);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.test{
+    background-color: rgb(236, 233, 233);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.test{
+    background-color: rgb(236, 233, 233);
+    border-radius: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+div{
+    background-color: rgb(236, 233, 233);
+    border-radius: 20px;
+    font-size: 15px;
+    width: 100px;
+    text-align: center;
+}
